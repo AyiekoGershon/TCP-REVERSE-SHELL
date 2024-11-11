@@ -7,7 +7,7 @@ import sys
 import time
 import winreg
 
-SERVER_IP = 'tcp.zapto.org'  # Replace with the actual server IP (public IP or DDNS hostname)
+SERVER_IP = 'XXXXXX'  # Replace with the actual server IP (public IP or DDNS hostname)
 SERVER_PORT = 8080
 CHUNK_SIZE = 8192  # 8 KB chunk size for file transfer
 
