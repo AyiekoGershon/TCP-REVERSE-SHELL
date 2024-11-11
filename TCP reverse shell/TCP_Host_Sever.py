@@ -7,7 +7,7 @@ CHUNK_SIZE = 8192  # 8 KB chunk size for file transfer
 
 def start_server():
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    server_socket.bind(('172.16.45.8', SERVER_PORT))  # Bind to any available network interface
+    server_socket.bind(('0.0.0.0.0', SERVER_PORT))  # Bind to any available network interface
     server_socket.listen(1)
     print("Server is listening on port 8080...")
 
