@@ -24,10 +24,10 @@ No external dependencies required (yet)
 This project is strictly for educational and authorized testing purposes. You are responsible for complying with all laws and regulations in your jurisdiction. The creator is not liable for any misuse or damage caused.
 
 📚 Author
-👨‍💻 [Your Name]
+👨‍💻 Gershon Ayieko
 Cybersecurity Enthusiast | Penetration Tester | Student @ Cooperative University
-📧 Email: your.email@example.com
-🌐 LinkedIn/GitHub/Twitter: [Links Here]
+📧 Email: gershonayieko3@gmail.com.com
+🌐 LinkedIn/GitHub/Twitter: 
 
 ⭐ Star the Repo
 If you like this project or found it useful, consider giving it a ⭐ to support more security tools like this!
